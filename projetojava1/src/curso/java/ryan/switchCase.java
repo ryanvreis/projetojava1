@@ -3,8 +3,7 @@ package curso.java.ryan;
 public class switchCase {
 	public static void main(String[] args) {
 
-		int dia = 6;
-//SWITCH CASE: Operações exatas
+		int dia = 4;
 		switch (dia) {
 		case 1:
 			System.out.println("Domingo");
@@ -16,9 +15,8 @@ public class switchCase {
 			System.out.println("Terça-feira");
 			break;
 		default:
-			System.out.println("Outro dia qualquer");
+			System.out.println("Dia qualquer");
 			break;
 		}
 	}
-
 }
