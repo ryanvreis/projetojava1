@@ -1,6 +1,6 @@
 package curso.java.ryan;
 
-public class operacoesLogicas {
+public class iFeELse {
 
 	public static void main(String[] args) {
 
