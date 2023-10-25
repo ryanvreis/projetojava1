@@ -5,6 +5,6 @@ public class mod {
 		double num1 = 9;
 		double num2 = 4;
 		double resto = num1 % num2;
-		System.out.println("Sobraram "+ resto + " carros");
+		System.out.println("Sobraram " + resto + " carros");
 	}
 }
